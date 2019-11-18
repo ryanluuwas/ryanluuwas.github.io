@@ -49,6 +49,16 @@ body {
   }
 }
 
+
+.intro {
+  font-size: 23px;
+  text-align: justify;
+  padding:0px 10em 0px 0px;
+}
+
+
+
+
 #profile {
   width: 24vw;
   padding: 4vh 3vw;
@@ -235,7 +245,7 @@ body {
 }
 
 #profile div {
-  font-weight: bold;
+  font-weight: lighter;
   margin: 1.5vh 0px;
 }
 
@@ -556,4 +566,5 @@ body {
     ),
     url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80");
   --background-background: #fff;
+
 }
